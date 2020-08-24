@@ -1,4 +1,4 @@
-﻿##Manipulador de Arquivo:
+##Manipulador de Arquivo:
 
 1)Utilizei o WatchService fica aguardando a entrada de um 
 arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo
