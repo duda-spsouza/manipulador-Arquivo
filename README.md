@@ -5,7 +5,7 @@
 - [x]  Os diretório data/in ou data/out precisam existir
 
 ### 
-- [x] git https://github.com/duda-spsouza/manipulador-Arquivo.git 
+- [x] git clone https://github.com/duda-spsouza/manipulador-Arquivo.git 
 - [x] JDK 8
 
 ### Exemplo do contéudo presente no Arquivo 
