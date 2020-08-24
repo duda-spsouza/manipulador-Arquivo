@@ -1,11 +1,13 @@
-##Manipulador de Arquivo:
+# Manipulador de Arquivo
 
-1)Utilizei o WatchService fica aguardando a entrada de um 
-arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo
-ficará em loop aguardando um arquivo.
+## Utilização
+Utilizei o WatchService que fica aguardando a entrada de um arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo ficará em loop aguardando um arquivo.
 
-3) Os Dados de exemplo para leitura foram esses a seguir.
+### Passo-a-passo
+- [x] git clone https://github.com/duda-spsouza/Ordem-de-Servico.git   
+- [x] JDK 8
 
+### Exemplo do contéudo presente no Arquivo 
 001ç1234567891234çPedroç50000
 001ç3245678865434çPauloç40000.99
 002ç2345675434544345çJose da SilvaçRural
