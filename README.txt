@@ -1,11 +1,8 @@
-##Ponto informações de uso do manipulador de arquivo:
+##Manipulador de Arquivo:
 
 1)Utilizei o WatchService fica aguardando a entrada de um 
 arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo
-ficará em loop ao aguardando de um arquivo.
-
-2) Os arquivos ".dat" devem estar no formato ANSI.
-
+ficará em loop aguardando um arquivo.
 
 3) Os Dados de exemplo para leitura foram esses a seguir.
 

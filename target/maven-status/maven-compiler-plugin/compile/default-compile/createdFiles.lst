@@ -1,0 +1,11 @@
+com\manipulador\arq\persistence\Reader.class
+com\manipulador\arq\persistence\Watcher.class
+com\manipulador\arq\entidade\Vendas.class
+com\manipulador\arq\entidade\Vendedor.class
+com\manipulador\arq\negocio\VendedorManager.class
+com\manipulador\arq\negocio\ClienteManager.class
+com\manipulador\arq\negocio\VendasManager.class
+com\manipulador\arq\entidade\Cliente.class
+com\manipulador\arq\persistence\Writer.class
+com\manipulador\arq\principal\App.class
+com\manipulador\arq\util\Config.class
