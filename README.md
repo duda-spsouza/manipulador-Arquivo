@@ -1,7 +1,8 @@
 # Manipulador de Arquivo
 
 ## Utilização
-Utilizei o WatchService que fica aguardando a entrada de um arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo ficará em loop aguardando um arquivo.
+- [x] Utilizei o WatchService que fica aguardando a entrada de um arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo ficará em loop aguardando um arquivo.
+- [x]  Os diretório data/in ou data/out precisam existir
 
 ### 
 - [x] git https://github.com/duda-spsouza/manipulador-Arquivo.git 
