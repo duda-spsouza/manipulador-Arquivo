@@ -3,8 +3,8 @@
 ## Utilização
 Utilizei o WatchService que fica aguardando a entrada de um arquivo ".dat" no diretório "data/in" ,ou seja, quando executar o manipulador de arquivo o mesmo ficará em loop aguardando um arquivo.
 
-### Passo-a-passo
-- [x] git clone https://github.com/duda-spsouza/Ordem-de-Servico.git   
+### 
+- [x] git https://github.com/duda-spsouza/manipulador-Arquivo.git 
 - [x] JDK 8
 
 ### Exemplo do contéudo presente no Arquivo 
